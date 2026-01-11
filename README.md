@@ -19,6 +19,6 @@ I am a Software Developer currently transitioning into the world of Data Science
 📫 How to Reach me on Linked: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/anupamarajendran/))
 
 🧰 Tech Stack
-💻 Software Development: Python • Java • SQL • HTML5 • CSS3 • JavaScript • Docker • Git
-📈 Data Science: Pandas • Scikit-Learn • PyTorch • Machine Learning • Tableau
+<br>💻 Software Development: Python • Java • SQL • HTML5 • CSS3 • JavaScript • Docker • Git
+<br>📈 Data Science: Pandas • Scikit-Learn • PyTorch • Machine Learning • Tableau
 
