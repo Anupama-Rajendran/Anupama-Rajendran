@@ -6,7 +6,7 @@
 </div>
 
 
-I am a Software Developer currently transitioning into the world of Data Science through my Master's program. I specialize in the intersection of robust software engineering and advanced analytical modeling.
+I am a Data Scientist currently transitioning from the world of Software Engineering through my Master's program. I specialize in the intersection of robust software engineering and advanced analytical modeling including AI engineering.
 
 🎓 Master’s Candidate: Diving deep into Data Science, Machine Learning, Gen AI and Big Data Analysis.
 
@@ -19,6 +19,7 @@ I am a Software Developer currently transitioning into the world of Data Science
 📫 How to Reach me on Linked: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/anupamarajendran/))
 
 🧰 Tech Stack
-<br>💻 Software Development: Python • Java • SQL • HTML5 • CSS3 • JavaScript • Git
-<br>📈 Data Science: Pandas • Scikit-Learn • Statistical Analysis • Machine Learning • Tableau
+<br>📈 Data Science        : Pandas • Numpy • TensorFlow • Scikit-Learn • Statistical Analysis • SQL • Tableau • Excel
+<br>🤖 AI/ML               : Predictive Modeling • RAG • Multi-Agent • LLM as judge • Vector DB • Safety Guards
+<br>💻 Software Development: Python • Java • Database • HTML5 • CSS3 • JavaScript • Unit Testing • Regression Testing • Git
 
